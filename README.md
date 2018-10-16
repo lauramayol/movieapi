@@ -35,8 +35,8 @@ This project provides a simple API to recieve a movie name, retrieve the narrati
 
 ### Contribute
 
-- Issue Tracker: https://github.com/lauramayol/laura_python_core/issues
-- Source Code: https://github.com/lauramayol/laura_python_core/tree/master/week_05/mini_projects/api_from_other_apis
+- Issue Tracker: https://github.com/lauramayol/movieapi/issues
+- Source Code: https://github.com/lauramayol/movieapi
 
 
 ### Support
