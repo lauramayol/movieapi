@@ -7,7 +7,7 @@ isodate==0.6.0
 oauthlib==2.1.0
 postgres==2.2.2
 psycopg2-binary==2.7.5
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.2
 PySocks==1.6.8
 pytz==2018.5
